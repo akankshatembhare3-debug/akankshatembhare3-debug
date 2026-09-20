@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi , I'm Akanksha Tembhare 👋
+Data Science Student |web Developer | Data & Analytics Enthusiast
+
+I'm a B.Tech Data Science student interested in turning data into meaningful insights and building practical solutions.
+
+I enjoy learning by building projects and continuously improving my skills in Python, SQL, Data Analysis, Machine Learning, and Web Development.
 
 <!--
 **akankshatembhare3-debug/akankshatembhare3-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
