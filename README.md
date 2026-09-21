@@ -3,7 +3,8 @@
 <head>
     
 </head>
-<body> <div >
+<body> <div background-image="<img width="1666" height="688" alt="intro1" src="https://github.com/user-attachments/assets/91fb332b-91e4-420b-a52e-d4657062e973" />
+" >
     <h4 align="center"> Hi There , I am Akanksha Tembhare </h4> <br>
     <p align="center"> Data Science Student | Exploring Data & Development</p> <br>
     <p align="center"> I’m a B.Tech student exploring Data Science, Python, SQL and Web Development.
