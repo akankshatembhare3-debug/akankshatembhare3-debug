@@ -25,5 +25,10 @@
 - 🌐 Building projects with Web Technologies
 - 🚀 Learning by building and experimenting
 
+<h2>🛠️ Skills & Technologies</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
+</p>
 </body>
 </html>
