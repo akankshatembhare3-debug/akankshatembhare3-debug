@@ -1,18 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style>
-        .Heading {
-            align="center";
-            Background-color: Lightblue;
-            }
-    </style>
+    
 </head>
-<body>
-    <h4 CLASS="Heading"> Hi There , I am Akanksha Tembhare </h4> <br>
-    <p> Data Science Student | Exploring Data & Development</p> <br>
-    <p> I’m a B.Tech student exploring Data Science, Python, SQL and Web Development.
+<body> <div >
+    <h4 align="center"> Hi There , I am Akanksha Tembhare </h4> <br>
+    <p align="center"> Data Science Student | Exploring Data & Development</p> <br>
+    <p align="center"> I’m a B.Tech student exploring Data Science, Python, SQL and Web Development.
 I enjoy learning by building practical projects and continuously improving my skills. </p>
+</div>
 </body>
 </html>
 
