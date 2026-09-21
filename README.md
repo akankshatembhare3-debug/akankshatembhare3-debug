@@ -17,6 +17,13 @@
   I enjoy learning by building practical projects and exploring
   Data Science, Web Development, and new technologies.
 </p>
+<h2> About Me</h2>
+
+- 🎓 B.Tech student specializing in Data Science
+- 🐍 Learning and practicing Python & SQL
+- 📊 Exploring Data Analysis and Machine Learning
+- 🌐 Building projects with Web Technologies
+- 🚀 Learning by building and experimenting
 
 </body>
 </html>
