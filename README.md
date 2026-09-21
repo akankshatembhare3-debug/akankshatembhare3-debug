@@ -30,5 +30,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
 </p>
+<h2>🌱 Currently Learning</h2>
+
+<p>
+  Data Analysis • Machine Learning • JavaScript • Advanced Python
+</p>
 </body>
 </html>
