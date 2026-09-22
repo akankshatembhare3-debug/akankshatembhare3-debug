@@ -24,6 +24,7 @@
 - 📊 Exploring Data Analysis and Machine Learning
 - 🌐 Building projects with Web Technologies
 - 🚀 Learning by building and experimenting
+-    Exploring new technologies
 
 <h2>🛠️ Skills & Technologies</h2>
 
